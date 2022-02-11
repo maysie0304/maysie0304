@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently student on Bengkulu University
-- 🌱 I’m currently learning Data Scientic DQLab dan Bangkit Cloud Computing
+- 🌱 I’m currently learning Data Scientic DQLab 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rimayang-licia-arneta-32b888175/)
 
 <p align="left">
